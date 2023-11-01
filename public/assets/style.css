@@ -1,0 +1,42 @@
+body {
+  background: #EAEAEA;
+}
+
+.color-box {
+  min-height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.circle-button {
+  width: 75px;
+  height: 75px;
+  padding: 15px;
+  border: 8px solid #F5F5F5;
+  border-radius: 50%;
+  background: #252525;
+  text-align: center;
+  text-decoration: none;
+  line-height: 60px;
+  position: absolute;
+  top: -30px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.circle-button:hover {
+  cursor: pointer;
+  background: #F5F5F5;
+  fill: #252525;
+  border-color: #252525;
+}
+
+.copy-hex {
+  transition: transform 0.5s;
+}
+
+.copy-hex:hover {
+  transform: scale(1.2);
+  cursor: pointer;
+}
