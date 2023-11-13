@@ -59,7 +59,7 @@ This will run the Node.js application and start a local web server to serve the 
 
 ## Screenshots
 
-![Palette Generator](https://i.imgur.com/V8XCqS4.jpg)
+![Palette Generator](palette-generator.gif)
 
 ## Credits
 
