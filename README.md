@@ -10,6 +10,10 @@ The Palette Generator is a web application that generates random color palettes.
 
 - **Hex Code Copy**: Users can click on the hex code of each color to copy it to the clipboard.
 
+## Screenshots
+
+![Palette Generator](palette-generator.gif)
+
 ## Getting Started
 
 ### Prerequisites
@@ -57,16 +61,3 @@ This will run the Node.js application and start a local web server to serve the 
 
 3. Hover over the hex codes to see the tooltip "Copy the Hex code." Click on a hex code to copy it to the clipboard.
 
-## Screenshots
-
-![Palette Generator](palette-generator.gif)
-
-## Credits
-
-- This project was created by [The Admirale](https://github.com/TheAdmi).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Now, the documentation includes instructions on how to install project dependencies and start the Node.js project using `npm start`.
