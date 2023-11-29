@@ -26,7 +26,7 @@ The Palette Generator is a web application that generates random color palettes.
 1. Clone the project repository from GitHub:
 
    ```
-   git clone https://github.com/TheAdmi/palette-generator.git
+   git clone https://github.com/abdellah-agrm/palette-generator.git
    ```
 
 2. Open the project folder in your code editor.
